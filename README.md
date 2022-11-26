@@ -1,11 +1,8 @@
-
 <h1 align="center">Hi 👋, I'm Vinuri Disara</h1>
 <h3 align="center">I am a BSc (Hons) Software Engineering Undergraduate</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinuri00&label=Profile%20views&color=0e75b6&style=flat" alt="vinuri00" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vinuri00" alt="vinuri00" /></a> </p>
 
 - 🔭 I’m currently studying in **Bsc(Hons) Software Engineering affiliated with Plymouth University UK**
 
@@ -26,3 +23,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vinuri00&show_icons=true&locale=en" alt="vinuri00" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vinuri00&" alt="vinuri00" /></p>
+
