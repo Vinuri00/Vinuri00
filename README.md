@@ -7,7 +7,7 @@
 
 - 🔭 Graduated in **Bsc(Hons) Software Engineering affiliated with Plymouth University UK**
 
-- 🌱 
+/*- 🌱*/ 
 
 - 📫 How to reach me **vinuridisara2020@gmail.com**
 
