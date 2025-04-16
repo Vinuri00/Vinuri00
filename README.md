@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinuri00&label=Profile%20views&color=0e75b6&style=flat" alt="vinuri00" /> </p>
 
-- 🔭 I’m currently studying in **Bsc(Hons) Software Engineering affiliated with Plymouth University UK**
+- 🔭 Graduated in **Bsc(Hons) Software Engineering affiliated with Plymouth University UK**
 
-- 🌱 I’m currently learning **Java, Flutter**
+- 🌱 
 
 - 📫 How to reach me **vinuridisara2020@gmail.com**
 
